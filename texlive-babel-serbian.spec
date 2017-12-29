@@ -5,8 +5,8 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-babel-serbian
-Version:	20131013
-Release:	9
+Version:	1.0d
+Release:	1
 Summary:	TeXLive babel-serbian package
 Group:		Publishing
 URL:		http://tug.org/texlive
