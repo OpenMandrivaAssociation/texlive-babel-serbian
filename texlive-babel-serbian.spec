@@ -1,6 +1,6 @@
 Name:		texlive-babel-serbian
 Version:	64571
-Release:	1
+Release:	2
 Summary:	TeXLive babel-serbian package
 Group:		Publishing
 URL:		http://tug.org/texlive
