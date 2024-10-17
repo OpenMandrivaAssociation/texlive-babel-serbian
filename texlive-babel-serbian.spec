@@ -3,7 +3,7 @@ Version:	64571
 Release:	2
 Summary:	TeXLive babel-serbian package
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-serbian.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-serbian.doc.r%{version}.tar.xz
